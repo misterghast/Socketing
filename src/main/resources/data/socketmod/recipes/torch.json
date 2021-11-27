@@ -1,0 +1,13 @@
+{
+		"type": "socketmod:socketing",
+		"gem": {
+				"tag": "minecraft:coals"
+		},
+		"base": {
+				"item": "minecraft:stick"
+		},
+		"result": {
+				"item": "minecraft:torch",
+				"count": 4
+		}
+}
